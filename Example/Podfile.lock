@@ -1,5 +1,5 @@
 PODS:
-  - KZWFoundationSwift (0.1.0)
+  - KZWFoundationSwift (1.0.0)
 
 DEPENDENCIES:
   - KZWFoundationSwift (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  KZWFoundationSwift: 7a64a3316816c430029bfa5ec0509e28ec833518
+  KZWFoundationSwift: 153958e98f6dbae221ced89731f7b769319d8dda
 
-PODFILE CHECKSUM: 4242a4b3ce874b6eb7eadbea9febdac7cde0e243
+PODFILE CHECKSUM: 43f29f5170f06e613d2daab9dd5ba2fca783548b
 
 COCOAPODS: 1.5.3
