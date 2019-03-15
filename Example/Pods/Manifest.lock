@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  KZWFoundationSwift: 153958e98f6dbae221ced89731f7b769319d8dda
+  KZWFoundationSwift: f485ed6b1ea0a086eb5cf50780c531ff4d84b466
 
 PODFILE CHECKSUM: 43f29f5170f06e613d2daab9dd5ba2fca783548b
 
