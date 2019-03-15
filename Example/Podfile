@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'KZWFoundationSwfit_Example' do
+  pod 'KZWFoundationSwfit', :path => '../'
+
+end

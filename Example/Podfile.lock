@@ -1,0 +1,16 @@
+PODS:
+  - KZWFoundationSwfit (0.1.0)
+
+DEPENDENCIES:
+  - KZWFoundationSwfit (from `../`)
+
+EXTERNAL SOURCES:
+  KZWFoundationSwfit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KZWFoundationSwfit: ad8b449f778608797dacc6c50e5aeabfc2bc1201
+
+PODFILE CHECKSUM: 00ac47830d143f5c1e1fbd20e4b22d9d85cf064b
+
+COCOAPODS: 1.5.3
