@@ -239,6 +239,7 @@ public extension String {
         return nil
     }
     
+    // MARK:- 正则表达式
     public enum Validate {
         case email(_: String)       // 邮箱
         case phoneNum(_: String)    // 手机

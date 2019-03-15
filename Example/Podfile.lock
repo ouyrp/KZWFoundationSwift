@@ -1,5 +1,5 @@
 PODS:
-  - KZWFoundationSwfit (0.1.0)
+  - KZWFoundationSwfit (1.0.0)
 
 DEPENDENCIES:
   - KZWFoundationSwfit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  KZWFoundationSwfit: ad8b449f778608797dacc6c50e5aeabfc2bc1201
+  KZWFoundationSwfit: 6845229d7197c6b2dafd04ac1578f65e4e144ed1
 
 PODFILE CHECKSUM: 00ac47830d143f5c1e1fbd20e4b22d9d85cf064b
 

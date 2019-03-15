@@ -31,8 +31,8 @@ public extension UIDevice {
     public static let localizedModel = UIDevice.current.localizedModel
     
     // 屏幕宽高
-    public static let kzwWidth = UIScreen.main.bounds.width
-    public static let kzwHeight = UIScreen.main.bounds.height
+    public static let screenWidth = UIScreen.main.bounds.width
+    public static let screenHeight = UIScreen.main.bounds.height
     
     // block
     public typealias CommonBlock = (_ result: Any?) -> ()
