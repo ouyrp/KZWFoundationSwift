@@ -1,0 +1,22 @@
+{
+  "name": "KZWFoundationSwift",
+  "version": "0.1.0",
+  "summary": "A short description of KZWFoundationSwift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ouyrp/KZWFoundationSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ouyrp": "rp.ouyang001@bkjk.com"
+  },
+  "source": {
+    "git": "https://github.com/ouyrp/KZWFoundationSwift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KZWFoundationSwift/Classes/**/*"
+}

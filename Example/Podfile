@@ -1,6 +1,11 @@
 use_frameworks!
 
-target 'KZWFoundationSwfit_Example' do
-  pod 'KZWFoundationSwfit', :path => '../'
+target 'KZWFoundationSwift_Example' do
+  pod 'KZWFoundationSwift', :path => '../'
 
+  target 'KZWFoundationSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
 end

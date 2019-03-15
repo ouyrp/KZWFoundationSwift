@@ -1,0 +1,6 @@
+framework module KZWFoundationSwift {
+  umbrella header "KZWFoundationSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
