@@ -7,256 +7,254 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		004734C31461D689D0B49EE473189E36 /* UIButton+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 974CE67E6794C7625209000B73BA577F /* UIButton+KZWExtension.swift */; };
-		02FAE50781BB493BA68E84B3235DC48D /* Pods-KZWFoundationSwift_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EB4610EDC19A4215D184EE43DA5D1D2A /* Pods-KZWFoundationSwift_Example-dummy.m */; };
-		053FBF5613867AB1659265CAE9185D3A /* KZWEnvironmentManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0F37DB5F210C0EBA015346AAC875493 /* KZWEnvironmentManager.swift */; };
-		1B6D14A2578EF9E6BB982AE3846DBDCE /* String+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE0DAE53AA978BBF5B73B05A4970F83 /* String+KZWExtension.swift */; };
-		23AB26F6987A82A378B6CA3EDCD1BA10 /* UIDevice+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA1D877D803D01D02312BFA4C772F39C /* UIDevice+KZWExtension.swift */; };
-		266D0A8D883A5472214DCE67E0BFD608 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
-		40110ECE01EEC8BD5A35A19F5239A3F1 /* UIView+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0CBD37A652C8970A6DA0EF7E433DBE6 /* UIView+KZWExtension.swift */; };
-		47A3F81A52C82738BAFFD8512C109CFB /* Date+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DD924FFE4ECA2CEBD530A49553FA0A0 /* Date+KZWExtension.swift */; };
-		6C1E60A2AF5E096F962C5B587220300E /* Array+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2205DE7AD26CE5B7B6DF6DA52C1CD4F /* Array+KZWExtension.swift */; };
-		713F3168360768D8CE958B80166367F6 /* Pods-KZWFoundationSwift_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7DBCBEBB510D5BAA3429C3AD19ED9939 /* Pods-KZWFoundationSwift_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		87CD16827739C20C0CDA949A24B9C2C6 /* Dictionary+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0573D4AF2C07D3C7CF2BB3A26126D57A /* Dictionary+KZWExtension.swift */; };
-		939045916369924BA37AC47ACDC0ADAA /* KZWFoundationSwift-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EBACD036329335AA5FF965C90D5D5EBF /* KZWFoundationSwift-dummy.m */; };
-		99672BB94FC567C153A176A8F6429D51 /* UIColor+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E20F447211DD37397FACCCDCE93D4A2 /* UIColor+KZWExtension.swift */; };
-		BDE7C1241AAC8595E497C46EDC9FB22B /* NSString+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE63ED9A9C8112597B98C3D4A7E94E1 /* NSString+KZWExtension.swift */; };
-		CC40419181A9B347BF21F3BEAB80F4D6 /* KZWFoundationSwift-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DDB76EE738736B94C9986A352BC10E34 /* KZWFoundationSwift-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E1B8A69FA5320403BECC7EFEA2EBD3F0 /* Optional+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D5987DE1AFFF9675C7AA9B2AEDFAFA /* Optional+KZWExtension.swift */; };
-		F8394E3A2B332252EEA496BED69FB997 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
+		1A8B0675F19743727F8E71BBCB5C95E6 /* Dictionary+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D148D9BA00D01C41FDEED41B831BDB /* Dictionary+KZWExtension.swift */; };
+		249467ED4E49F5A657230B20F5E039BC /* UIDevice+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1168F65B493F4D571F6CD5AD9AC9A119 /* UIDevice+KZWExtension.swift */; };
+		28FECECE0C32E0411AEF883A043E5876 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
+		35CCC25AA184E3FEA6C0128FDD96E7CF /* KZWFoundationSwift-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D2A74BFBFD9316348441FC33D6575CDA /* KZWFoundationSwift-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3D880741E9E9575C5CA318A3D15FC3D7 /* Optional+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7D73869DC1515D42D5044E7A26A999E /* Optional+KZWExtension.swift */; };
+		3DF7474639EB6F8E670BDBA70719B86D /* Pods-KZWFoundationSwift_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 267C40F83928DAF1C30C02721531DADA /* Pods-KZWFoundationSwift_Example-dummy.m */; };
+		462EB735D73F4963473EB7ABD9C91928 /* String+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C48BF2FEC7FE154914E2F23110CBC9E /* String+KZWExtension.swift */; };
+		55F07D54A98BDB180B6F2FB374DF07F8 /* KZWFoundationSwift-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6594653761E6B7D037D85ACDFFBC1043 /* KZWFoundationSwift-dummy.m */; };
+		6E9D2455359722876C5E8DA2230ED28D /* NSString+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4B72251C2000A6A06453099EE67021 /* NSString+KZWExtension.swift */; };
+		73FE9200B253332265AFD4B08D48B206 /* UIButton+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC2E67A84CA1E03A2ECF0E982BF3121C /* UIButton+KZWExtension.swift */; };
+		804635D29ACD36E41C640F076D584401 /* KZWEnvironmentManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 585F4481BF2F8789679154116AB89AB5 /* KZWEnvironmentManager.swift */; };
+		8FD274E88D3951E0F11F4EF6FE906F15 /* Array+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9829AB72062040FD0D772C080D2F794C /* Array+KZWExtension.swift */; };
+		B687ABE2625131050A3D2B6CC784A5DE /* Date+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AF5549F5A29396BE906BA333DE82ED5 /* Date+KZWExtension.swift */; };
+		B7DACBB6E3148896FFB83FF6B1646F8C /* UIView+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92CDDDF86BAF5404DFAD596E5E16373B /* UIView+KZWExtension.swift */; };
+		C5C593D598F03451C20A259585D781C2 /* Pods-KZWFoundationSwift_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FBD6A35C36550F45ACD63A3D2B5D3FF3 /* Pods-KZWFoundationSwift_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D0AD8DCE92C31E960ACDBBA91A0B92A7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
+		F3A245B7CEA50911547FA36BBCCB4D3E /* UIColor+KZWExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12012E7CB4FDBE35D80684D75B222D5F /* UIColor+KZWExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		86BD246BD3FD31A3DB9207A1316F1B94 /* PBXContainerItemProxy */ = {
+		1007AD3A81E55ABFA744AD12DA6E906B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = CA32B553CFB8A00F8BF3FA3988F51ED8;
+			remoteGlobalIDString = C9CDB4633D9C21C1818B85E7184F8744;
 			remoteInfo = KZWFoundationSwift;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0573D4AF2C07D3C7CF2BB3A26126D57A /* Dictionary+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Dictionary+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/Dictionary+KZWExtension.swift"; sourceTree = "<group>"; };
-		2571BB07B56D8B5B521D106FA60ACDF4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		291D73B20C049BE5E9FF63B127E5E062 /* Pods-KZWFoundationSwift_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-KZWFoundationSwift_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		334087CBB62AA3C76230BA313BAD607E /* Pods-KZWFoundationSwift_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KZWFoundationSwift_Example.release.xcconfig"; sourceTree = "<group>"; };
-		3CE63ED9A9C8112597B98C3D4A7E94E1 /* NSString+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "NSString+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/NSString+KZWExtension.swift"; sourceTree = "<group>"; };
-		3D8BA66F3A7FF1470A8FCBE09C523179 /* Pods_KZWFoundationSwift_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_KZWFoundationSwift_Example.framework; path = "Pods-KZWFoundationSwift_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4B1CCDAD1574A24E29626A15664529BC /* Pods-KZWFoundationSwift_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KZWFoundationSwift_Example-frameworks.sh"; sourceTree = "<group>"; };
-		4BE0DAE53AA978BBF5B73B05A4970F83 /* String+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "String+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/String+KZWExtension.swift"; sourceTree = "<group>"; };
-		55FD5CD04E0A50E5D14A0BABC92EB187 /* KZWFoundationSwift.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = KZWFoundationSwift.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		5DD924FFE4ECA2CEBD530A49553FA0A0 /* Date+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Date+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/Date+KZWExtension.swift"; sourceTree = "<group>"; };
-		6599555F384DEE931911DF43FEC3D1AC /* KZWFoundationSwift.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = KZWFoundationSwift.xcconfig; sourceTree = "<group>"; };
-		65EFDE045B6A0FBD1629EC63066E84E8 /* KZWFoundationSwift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = KZWFoundationSwift.modulemap; sourceTree = "<group>"; };
-		7BDAEC2DE53E6A3E0563837BBF72A1C8 /* Pods-KZWFoundationSwift_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-KZWFoundationSwift_Example.modulemap"; sourceTree = "<group>"; };
-		7DBCBEBB510D5BAA3429C3AD19ED9939 /* Pods-KZWFoundationSwift_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-KZWFoundationSwift_Example-umbrella.h"; sourceTree = "<group>"; };
-		88D5987DE1AFFF9675C7AA9B2AEDFAFA /* Optional+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Optional+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/Optional+KZWExtension.swift"; sourceTree = "<group>"; };
-		8E20F447211DD37397FACCCDCE93D4A2 /* UIColor+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIColor+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/UIColor+KZWExtension.swift"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		974CE67E6794C7625209000B73BA577F /* UIButton+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIButton+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/UIButton+KZWExtension.swift"; sourceTree = "<group>"; };
-		9DA90BEB42C954781AC6AAF4A47756C0 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9FFF891B92B548D489B11FAF8EC25C2D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		A139BF7C9BB19931A11C0C628C602D1C /* KZWFoundationSwift-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KZWFoundationSwift-prefix.pch"; sourceTree = "<group>"; };
-		B00A64A8FB196BF8630E1DC91E814F61 /* KZWFoundationSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = KZWFoundationSwift.framework; path = KZWFoundationSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B2205DE7AD26CE5B7B6DF6DA52C1CD4F /* Array+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Array+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/Array+KZWExtension.swift"; sourceTree = "<group>"; };
-		B728ABE0BB9F314D796EC6AFB8F12520 /* Pods-KZWFoundationSwift_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KZWFoundationSwift_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		BF5E5AEAC567439C0526045AA3B14F47 /* Pods-KZWFoundationSwift_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-KZWFoundationSwift_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		C0C04965C163081456C3E737848E6AA6 /* Pods-KZWFoundationSwift_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KZWFoundationSwift_Example-resources.sh"; sourceTree = "<group>"; };
-		C0F37DB5F210C0EBA015346AAC875493 /* KZWEnvironmentManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KZWEnvironmentManager.swift; path = KZWFoundationSwift/Classes/KZWEnvironmentManager.swift; sourceTree = "<group>"; };
-		C99B33B0485E22BF5E70BF05F599BF17 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D0CBD37A652C8970A6DA0EF7E433DBE6 /* UIView+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/UIView+KZWExtension.swift"; sourceTree = "<group>"; };
-		DDB76EE738736B94C9986A352BC10E34 /* KZWFoundationSwift-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KZWFoundationSwift-umbrella.h"; sourceTree = "<group>"; };
-		EA1D877D803D01D02312BFA4C772F39C /* UIDevice+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIDevice+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/UIDevice+KZWExtension.swift"; sourceTree = "<group>"; };
-		EB4610EDC19A4215D184EE43DA5D1D2A /* Pods-KZWFoundationSwift_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-KZWFoundationSwift_Example-dummy.m"; sourceTree = "<group>"; };
-		EBACD036329335AA5FF965C90D5D5EBF /* KZWFoundationSwift-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "KZWFoundationSwift-dummy.m"; sourceTree = "<group>"; };
+		0A4B72251C2000A6A06453099EE67021 /* NSString+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "NSString+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/NSString+KZWExtension.swift"; sourceTree = "<group>"; };
+		0C48BF2FEC7FE154914E2F23110CBC9E /* String+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "String+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/String+KZWExtension.swift"; sourceTree = "<group>"; };
+		0E94E5D90C5D256285CCCC3F1AB76596 /* Pods_KZWFoundationSwift_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_KZWFoundationSwift_Example.framework; path = "Pods-KZWFoundationSwift_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1168F65B493F4D571F6CD5AD9AC9A119 /* UIDevice+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIDevice+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/UIDevice+KZWExtension.swift"; sourceTree = "<group>"; };
+		12012E7CB4FDBE35D80684D75B222D5F /* UIColor+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIColor+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/UIColor+KZWExtension.swift"; sourceTree = "<group>"; };
+		231D63C6F608F9C392A13026486DA54F /* Pods-KZWFoundationSwift_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-KZWFoundationSwift_Example.modulemap"; sourceTree = "<group>"; };
+		267C40F83928DAF1C30C02721531DADA /* Pods-KZWFoundationSwift_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-KZWFoundationSwift_Example-dummy.m"; sourceTree = "<group>"; };
+		2C89F7C5B7B4F4421FB8CAAF93DC43ED /* KZWFoundationSwift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = KZWFoundationSwift.modulemap; sourceTree = "<group>"; };
+		35E366FA7988DA533D7D0B17337AF326 /* KZWFoundationSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = KZWFoundationSwift.framework; path = KZWFoundationSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		44D148D9BA00D01C41FDEED41B831BDB /* Dictionary+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Dictionary+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/Dictionary+KZWExtension.swift"; sourceTree = "<group>"; };
+		5493E43A7D883E15B8F3644DF65AF8C7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		565202EB23FD5266BBFF102E06F0AE8F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		585F4481BF2F8789679154116AB89AB5 /* KZWEnvironmentManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KZWEnvironmentManager.swift; path = KZWFoundationSwift/Classes/KZWEnvironmentManager.swift; sourceTree = "<group>"; };
+		5B51CEA23EAF3936A651D59823E8BE8B /* Pods-KZWFoundationSwift_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KZWFoundationSwift_Example-frameworks.sh"; sourceTree = "<group>"; };
+		6594653761E6B7D037D85ACDFFBC1043 /* KZWFoundationSwift-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "KZWFoundationSwift-dummy.m"; sourceTree = "<group>"; };
+		683268F7998929244DDD902FD404CD0C /* Pods-KZWFoundationSwift_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-KZWFoundationSwift_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		6A69176FFE740A232FEF8554A2DD3EA3 /* Pods-KZWFoundationSwift_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KZWFoundationSwift_Example.release.xcconfig"; sourceTree = "<group>"; };
+		7BA94D93D8A11657E8A13A3122C70E0E /* KZWFoundationSwift.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = KZWFoundationSwift.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8AF5549F5A29396BE906BA333DE82ED5 /* Date+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Date+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/Date+KZWExtension.swift"; sourceTree = "<group>"; };
+		8DC8D25751223AA8AF35304A9F9F65B8 /* Pods-KZWFoundationSwift_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-KZWFoundationSwift_Example-Info.plist"; sourceTree = "<group>"; };
+		8EEB537352637EB0D960353564680535 /* KZWFoundationSwift-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KZWFoundationSwift-prefix.pch"; sourceTree = "<group>"; };
+		92CDDDF86BAF5404DFAD596E5E16373B /* UIView+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/UIView+KZWExtension.swift"; sourceTree = "<group>"; };
+		9362657AF3BEA5DEFD72D9B2B1F7600E /* Pods-KZWFoundationSwift_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KZWFoundationSwift_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		9829AB72062040FD0D772C080D2F794C /* Array+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Array+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/Array+KZWExtension.swift"; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		B0D421AC0D30C8AA88E368AFDAEDBDF3 /* KZWFoundationSwift.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = KZWFoundationSwift.xcconfig; sourceTree = "<group>"; };
+		CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		D2A74BFBFD9316348441FC33D6575CDA /* KZWFoundationSwift-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KZWFoundationSwift-umbrella.h"; sourceTree = "<group>"; };
+		DC2E67A84CA1E03A2ECF0E982BF3121C /* UIButton+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIButton+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/UIButton+KZWExtension.swift"; sourceTree = "<group>"; };
+		E4C21139872555537BB373A67F7992D4 /* Pods-KZWFoundationSwift_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-KZWFoundationSwift_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		E7D73869DC1515D42D5044E7A26A999E /* Optional+KZWExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Optional+KZWExtension.swift"; path = "KZWFoundationSwift/Classes/Optional+KZWExtension.swift"; sourceTree = "<group>"; };
+		EEF92F334505292117FEAF451FBA852F /* KZWFoundationSwift-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "KZWFoundationSwift-Info.plist"; sourceTree = "<group>"; };
+		FBD6A35C36550F45ACD63A3D2B5D3FF3 /* Pods-KZWFoundationSwift_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-KZWFoundationSwift_Example-umbrella.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		260483F247D4AD9BD606CA7454BE4585 /* Frameworks */ = {
+		CF09460208EFE88D18C9C80B2E875A6F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F8394E3A2B332252EEA496BED69FB997 /* Foundation.framework in Frameworks */,
+				28FECECE0C32E0411AEF883A043E5876 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		96EA1C0E93102C6486833E5CC64F4060 /* Frameworks */ = {
+		EAE7863A08F5DE4B9D3D1001BF93C710 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				266D0A8D883A5472214DCE67E0BFD608 /* Foundation.framework in Frameworks */,
+				D0AD8DCE92C31E960ACDBBA91A0B92A7 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		318613EF72E236D4F73B3EF7D4029830 /* Products */ = {
+		098B3A215B373F0AFDB69618FD620F68 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				B00A64A8FB196BF8630E1DC91E814F61 /* KZWFoundationSwift.framework */,
-				3D8BA66F3A7FF1470A8FCBE09C523179 /* Pods_KZWFoundationSwift_Example.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		5E0D919E635D23B70123790B8308F8EF /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
-		6CCC16E9068D5112684B37413E09C165 /* KZWFoundationSwift */ = {
-			isa = PBXGroup;
-			children = (
-				B2205DE7AD26CE5B7B6DF6DA52C1CD4F /* Array+KZWExtension.swift */,
-				5DD924FFE4ECA2CEBD530A49553FA0A0 /* Date+KZWExtension.swift */,
-				0573D4AF2C07D3C7CF2BB3A26126D57A /* Dictionary+KZWExtension.swift */,
-				C0F37DB5F210C0EBA015346AAC875493 /* KZWEnvironmentManager.swift */,
-				3CE63ED9A9C8112597B98C3D4A7E94E1 /* NSString+KZWExtension.swift */,
-				88D5987DE1AFFF9675C7AA9B2AEDFAFA /* Optional+KZWExtension.swift */,
-				4BE0DAE53AA978BBF5B73B05A4970F83 /* String+KZWExtension.swift */,
-				974CE67E6794C7625209000B73BA577F /* UIButton+KZWExtension.swift */,
-				8E20F447211DD37397FACCCDCE93D4A2 /* UIColor+KZWExtension.swift */,
-				EA1D877D803D01D02312BFA4C772F39C /* UIDevice+KZWExtension.swift */,
-				D0CBD37A652C8970A6DA0EF7E433DBE6 /* UIView+KZWExtension.swift */,
-				BF9C0BFCA9588FF35EEAEBB33B9D9EEF /* Pod */,
-				D01C76AC398874A28C1F3D0133D6400F /* Support Files */,
-			);
-			name = KZWFoundationSwift;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		7DB346D0F39D3F0E887471402A8071AB = {
-			isa = PBXGroup;
-			children = (
-				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				F6261FED48FE2A28630447F6C5702190 /* Development Pods */,
-				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
-				318613EF72E236D4F73B3EF7D4029830 /* Products */,
-				F97B4B9D1C1904B41630DE8E2E1F03BB /* Targets Support Files */,
-			);
-			sourceTree = "<group>";
-		};
-		A68BF7F94D4C6B48C53910086C669EEE /* Pods-KZWFoundationSwift_Example */ = {
-			isa = PBXGroup;
-			children = (
-				9DA90BEB42C954781AC6AAF4A47756C0 /* Info.plist */,
-				7BDAEC2DE53E6A3E0563837BBF72A1C8 /* Pods-KZWFoundationSwift_Example.modulemap */,
-				BF5E5AEAC567439C0526045AA3B14F47 /* Pods-KZWFoundationSwift_Example-acknowledgements.markdown */,
-				291D73B20C049BE5E9FF63B127E5E062 /* Pods-KZWFoundationSwift_Example-acknowledgements.plist */,
-				EB4610EDC19A4215D184EE43DA5D1D2A /* Pods-KZWFoundationSwift_Example-dummy.m */,
-				4B1CCDAD1574A24E29626A15664529BC /* Pods-KZWFoundationSwift_Example-frameworks.sh */,
-				C0C04965C163081456C3E737848E6AA6 /* Pods-KZWFoundationSwift_Example-resources.sh */,
-				7DBCBEBB510D5BAA3429C3AD19ED9939 /* Pods-KZWFoundationSwift_Example-umbrella.h */,
-				B728ABE0BB9F314D796EC6AFB8F12520 /* Pods-KZWFoundationSwift_Example.debug.xcconfig */,
-				334087CBB62AA3C76230BA313BAD607E /* Pods-KZWFoundationSwift_Example.release.xcconfig */,
-			);
-			name = "Pods-KZWFoundationSwift_Example";
-			path = "Target Support Files/Pods-KZWFoundationSwift_Example";
-			sourceTree = "<group>";
-		};
-		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				5E0D919E635D23B70123790B8308F8EF /* iOS */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		BF9C0BFCA9588FF35EEAEBB33B9D9EEF /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				55FD5CD04E0A50E5D14A0BABC92EB187 /* KZWFoundationSwift.podspec */,
-				9FFF891B92B548D489B11FAF8EC25C2D /* LICENSE */,
-				2571BB07B56D8B5B521D106FA60ACDF4 /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		D01C76AC398874A28C1F3D0133D6400F /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				C99B33B0485E22BF5E70BF05F599BF17 /* Info.plist */,
-				65EFDE045B6A0FBD1629EC63066E84E8 /* KZWFoundationSwift.modulemap */,
-				6599555F384DEE931911DF43FEC3D1AC /* KZWFoundationSwift.xcconfig */,
-				EBACD036329335AA5FF965C90D5D5EBF /* KZWFoundationSwift-dummy.m */,
-				A139BF7C9BB19931A11C0C628C602D1C /* KZWFoundationSwift-prefix.pch */,
-				DDB76EE738736B94C9986A352BC10E34 /* KZWFoundationSwift-umbrella.h */,
+				2C89F7C5B7B4F4421FB8CAAF93DC43ED /* KZWFoundationSwift.modulemap */,
+				B0D421AC0D30C8AA88E368AFDAEDBDF3 /* KZWFoundationSwift.xcconfig */,
+				6594653761E6B7D037D85ACDFFBC1043 /* KZWFoundationSwift-dummy.m */,
+				EEF92F334505292117FEAF451FBA852F /* KZWFoundationSwift-Info.plist */,
+				8EEB537352637EB0D960353564680535 /* KZWFoundationSwift-prefix.pch */,
+				D2A74BFBFD9316348441FC33D6575CDA /* KZWFoundationSwift-umbrella.h */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/KZWFoundationSwift";
 			sourceTree = "<group>";
 		};
-		F6261FED48FE2A28630447F6C5702190 /* Development Pods */ = {
+		9B055D0CFEA43187E72B03DED11F5662 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				6CCC16E9068D5112684B37413E09C165 /* KZWFoundationSwift */,
+				CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		B26E19F01854385A67FA64F332D38EA7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				35E366FA7988DA533D7D0B17337AF326 /* KZWFoundationSwift.framework */,
+				0E94E5D90C5D256285CCCC3F1AB76596 /* Pods_KZWFoundationSwift_Example.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C27CF0CF5D305210215838D141CD78CA /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				7BA94D93D8A11657E8A13A3122C70E0E /* KZWFoundationSwift.podspec */,
+				5493E43A7D883E15B8F3644DF65AF8C7 /* LICENSE */,
+				565202EB23FD5266BBFF102E06F0AE8F /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		CF1408CF629C7361332E53B88F7BD30C = {
+			isa = PBXGroup;
+			children = (
+				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
+				D6D31722803BB1C91A3CD721E2266DE7 /* Development Pods */,
+				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
+				B26E19F01854385A67FA64F332D38EA7 /* Products */,
+				E460CA8F4D21D0CB2F15DA7815CD445D /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9B055D0CFEA43187E72B03DED11F5662 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D6D31722803BB1C91A3CD721E2266DE7 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				F28425E73C9E0CD29469B910858DE8E8 /* KZWFoundationSwift */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		F97B4B9D1C1904B41630DE8E2E1F03BB /* Targets Support Files */ = {
+		E460CA8F4D21D0CB2F15DA7815CD445D /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				A68BF7F94D4C6B48C53910086C669EEE /* Pods-KZWFoundationSwift_Example */,
+				E9D14CAF5CFB2A7A9FE4C69BF4C1E194 /* Pods-KZWFoundationSwift_Example */,
 			);
 			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		E9D14CAF5CFB2A7A9FE4C69BF4C1E194 /* Pods-KZWFoundationSwift_Example */ = {
+			isa = PBXGroup;
+			children = (
+				231D63C6F608F9C392A13026486DA54F /* Pods-KZWFoundationSwift_Example.modulemap */,
+				683268F7998929244DDD902FD404CD0C /* Pods-KZWFoundationSwift_Example-acknowledgements.markdown */,
+				E4C21139872555537BB373A67F7992D4 /* Pods-KZWFoundationSwift_Example-acknowledgements.plist */,
+				267C40F83928DAF1C30C02721531DADA /* Pods-KZWFoundationSwift_Example-dummy.m */,
+				5B51CEA23EAF3936A651D59823E8BE8B /* Pods-KZWFoundationSwift_Example-frameworks.sh */,
+				8DC8D25751223AA8AF35304A9F9F65B8 /* Pods-KZWFoundationSwift_Example-Info.plist */,
+				FBD6A35C36550F45ACD63A3D2B5D3FF3 /* Pods-KZWFoundationSwift_Example-umbrella.h */,
+				9362657AF3BEA5DEFD72D9B2B1F7600E /* Pods-KZWFoundationSwift_Example.debug.xcconfig */,
+				6A69176FFE740A232FEF8554A2DD3EA3 /* Pods-KZWFoundationSwift_Example.release.xcconfig */,
+			);
+			name = "Pods-KZWFoundationSwift_Example";
+			path = "Target Support Files/Pods-KZWFoundationSwift_Example";
+			sourceTree = "<group>";
+		};
+		F28425E73C9E0CD29469B910858DE8E8 /* KZWFoundationSwift */ = {
+			isa = PBXGroup;
+			children = (
+				9829AB72062040FD0D772C080D2F794C /* Array+KZWExtension.swift */,
+				8AF5549F5A29396BE906BA333DE82ED5 /* Date+KZWExtension.swift */,
+				44D148D9BA00D01C41FDEED41B831BDB /* Dictionary+KZWExtension.swift */,
+				585F4481BF2F8789679154116AB89AB5 /* KZWEnvironmentManager.swift */,
+				0A4B72251C2000A6A06453099EE67021 /* NSString+KZWExtension.swift */,
+				E7D73869DC1515D42D5044E7A26A999E /* Optional+KZWExtension.swift */,
+				0C48BF2FEC7FE154914E2F23110CBC9E /* String+KZWExtension.swift */,
+				DC2E67A84CA1E03A2ECF0E982BF3121C /* UIButton+KZWExtension.swift */,
+				12012E7CB4FDBE35D80684D75B222D5F /* UIColor+KZWExtension.swift */,
+				1168F65B493F4D571F6CD5AD9AC9A119 /* UIDevice+KZWExtension.swift */,
+				92CDDDF86BAF5404DFAD596E5E16373B /* UIView+KZWExtension.swift */,
+				C27CF0CF5D305210215838D141CD78CA /* Pod */,
+				098B3A215B373F0AFDB69618FD620F68 /* Support Files */,
+			);
+			name = KZWFoundationSwift;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		22740DEB2AA864FC004B28F423C57A29 /* Headers */ = {
+		8D2CE055735E6A9B727C1A5628E41A0F /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				713F3168360768D8CE958B80166367F6 /* Pods-KZWFoundationSwift_Example-umbrella.h in Headers */,
+				35CCC25AA184E3FEA6C0128FDD96E7CF /* KZWFoundationSwift-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5A28673C71ADE3CA129AACCE62AF53E3 /* Headers */ = {
+		AF7BBCA6766E45F5DE9BCFDC60BBE28C /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CC40419181A9B347BF21F3BEAB80F4D6 /* KZWFoundationSwift-umbrella.h in Headers */,
+				C5C593D598F03451C20A259585D781C2 /* Pods-KZWFoundationSwift_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		0F9A025A24D5E338CCDB85A1CE35693F /* Pods-KZWFoundationSwift_Example */ = {
+		6ED6FB6CD6ABF9EEDBA1E45106AF6320 /* Pods-KZWFoundationSwift_Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 25179CC7B545A4914D3234B922008E64 /* Build configuration list for PBXNativeTarget "Pods-KZWFoundationSwift_Example" */;
+			buildConfigurationList = 763E2B0E35473152EC977FABB3EA712F /* Build configuration list for PBXNativeTarget "Pods-KZWFoundationSwift_Example" */;
 			buildPhases = (
-				22740DEB2AA864FC004B28F423C57A29 /* Headers */,
-				517C0239C18D612B2378AE22316ACDF3 /* Sources */,
-				260483F247D4AD9BD606CA7454BE4585 /* Frameworks */,
-				4E85DDAE6B319074252187ED3ED0CBBB /* Resources */,
+				AF7BBCA6766E45F5DE9BCFDC60BBE28C /* Headers */,
+				8D82E4E86B0169E73AE9DC7129F79D71 /* Sources */,
+				CF09460208EFE88D18C9C80B2E875A6F /* Frameworks */,
+				531F2729D879E96ECE5CED51AD138A1D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				0A2406C87896D2126FBA23894D7A7818 /* PBXTargetDependency */,
+				A1B4179C662772B6CD96A37C80EBE0FB /* PBXTargetDependency */,
 			);
 			name = "Pods-KZWFoundationSwift_Example";
 			productName = "Pods-KZWFoundationSwift_Example";
-			productReference = 3D8BA66F3A7FF1470A8FCBE09C523179 /* Pods_KZWFoundationSwift_Example.framework */;
+			productReference = 0E94E5D90C5D256285CCCC3F1AB76596 /* Pods_KZWFoundationSwift_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		CA32B553CFB8A00F8BF3FA3988F51ED8 /* KZWFoundationSwift */ = {
+		C9CDB4633D9C21C1818B85E7184F8744 /* KZWFoundationSwift */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F8874F4D1494CCCFDE6FC9210E265B58 /* Build configuration list for PBXNativeTarget "KZWFoundationSwift" */;
+			buildConfigurationList = 52D55904355335CF5647A604C7B99E7E /* Build configuration list for PBXNativeTarget "KZWFoundationSwift" */;
 			buildPhases = (
-				5A28673C71ADE3CA129AACCE62AF53E3 /* Headers */,
-				B83D6264288F6BC62F2A24E12286E3D5 /* Sources */,
-				96EA1C0E93102C6486833E5CC64F4060 /* Frameworks */,
-				561BDBE4AF5800F5E2FA080DDBBCCCCA /* Resources */,
+				8D2CE055735E6A9B727C1A5628E41A0F /* Headers */,
+				0056A9CFE5495EB638016EBFAD8E3D47 /* Sources */,
+				EAE7863A08F5DE4B9D3D1001BF93C710 /* Frameworks */,
+				7ECD952B8C0BB9339D808E442FA31F7D /* Resources */,
 			);
 			buildRules = (
 			);
@@ -264,45 +262,45 @@
 			);
 			name = KZWFoundationSwift;
 			productName = KZWFoundationSwift;
-			productReference = B00A64A8FB196BF8630E1DC91E814F61 /* KZWFoundationSwift.framework */;
+			productReference = 35E366FA7988DA533D7D0B17337AF326 /* KZWFoundationSwift.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
 				LastUpgradeCheck = 0930;
 			};
-			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 318613EF72E236D4F73B3EF7D4029830 /* Products */;
+			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			productRefGroup = B26E19F01854385A67FA64F332D38EA7 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CA32B553CFB8A00F8BF3FA3988F51ED8 /* KZWFoundationSwift */,
-				0F9A025A24D5E338CCDB85A1CE35693F /* Pods-KZWFoundationSwift_Example */,
+				C9CDB4633D9C21C1818B85E7184F8744 /* KZWFoundationSwift */,
+				6ED6FB6CD6ABF9EEDBA1E45106AF6320 /* Pods-KZWFoundationSwift_Example */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4E85DDAE6B319074252187ED3ED0CBBB /* Resources */ = {
+		531F2729D879E96ECE5CED51AD138A1D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		561BDBE4AF5800F5E2FA080DDBBCCCCA /* Resources */ = {
+		7ECD952B8C0BB9339D808E442FA31F7D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -312,48 +310,48 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		517C0239C18D612B2378AE22316ACDF3 /* Sources */ = {
+		0056A9CFE5495EB638016EBFAD8E3D47 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				02FAE50781BB493BA68E84B3235DC48D /* Pods-KZWFoundationSwift_Example-dummy.m in Sources */,
+				8FD274E88D3951E0F11F4EF6FE906F15 /* Array+KZWExtension.swift in Sources */,
+				B687ABE2625131050A3D2B6CC784A5DE /* Date+KZWExtension.swift in Sources */,
+				1A8B0675F19743727F8E71BBCB5C95E6 /* Dictionary+KZWExtension.swift in Sources */,
+				804635D29ACD36E41C640F076D584401 /* KZWEnvironmentManager.swift in Sources */,
+				55F07D54A98BDB180B6F2FB374DF07F8 /* KZWFoundationSwift-dummy.m in Sources */,
+				6E9D2455359722876C5E8DA2230ED28D /* NSString+KZWExtension.swift in Sources */,
+				3D880741E9E9575C5CA318A3D15FC3D7 /* Optional+KZWExtension.swift in Sources */,
+				462EB735D73F4963473EB7ABD9C91928 /* String+KZWExtension.swift in Sources */,
+				73FE9200B253332265AFD4B08D48B206 /* UIButton+KZWExtension.swift in Sources */,
+				F3A245B7CEA50911547FA36BBCCB4D3E /* UIColor+KZWExtension.swift in Sources */,
+				249467ED4E49F5A657230B20F5E039BC /* UIDevice+KZWExtension.swift in Sources */,
+				B7DACBB6E3148896FFB83FF6B1646F8C /* UIView+KZWExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B83D6264288F6BC62F2A24E12286E3D5 /* Sources */ = {
+		8D82E4E86B0169E73AE9DC7129F79D71 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6C1E60A2AF5E096F962C5B587220300E /* Array+KZWExtension.swift in Sources */,
-				47A3F81A52C82738BAFFD8512C109CFB /* Date+KZWExtension.swift in Sources */,
-				87CD16827739C20C0CDA949A24B9C2C6 /* Dictionary+KZWExtension.swift in Sources */,
-				053FBF5613867AB1659265CAE9185D3A /* KZWEnvironmentManager.swift in Sources */,
-				939045916369924BA37AC47ACDC0ADAA /* KZWFoundationSwift-dummy.m in Sources */,
-				BDE7C1241AAC8595E497C46EDC9FB22B /* NSString+KZWExtension.swift in Sources */,
-				E1B8A69FA5320403BECC7EFEA2EBD3F0 /* Optional+KZWExtension.swift in Sources */,
-				1B6D14A2578EF9E6BB982AE3846DBDCE /* String+KZWExtension.swift in Sources */,
-				004734C31461D689D0B49EE473189E36 /* UIButton+KZWExtension.swift in Sources */,
-				99672BB94FC567C153A176A8F6429D51 /* UIColor+KZWExtension.swift in Sources */,
-				23AB26F6987A82A378B6CA3EDCD1BA10 /* UIDevice+KZWExtension.swift in Sources */,
-				40110ECE01EEC8BD5A35A19F5239A3F1 /* UIView+KZWExtension.swift in Sources */,
+				3DF7474639EB6F8E670BDBA70719B86D /* Pods-KZWFoundationSwift_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		0A2406C87896D2126FBA23894D7A7818 /* PBXTargetDependency */ = {
+		A1B4179C662772B6CD96A37C80EBE0FB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = KZWFoundationSwift;
-			target = CA32B553CFB8A00F8BF3FA3988F51ED8 /* KZWFoundationSwift */;
-			targetProxy = 86BD246BD3FD31A3DB9207A1316F1B94 /* PBXContainerItemProxy */;
+			target = C9CDB4633D9C21C1818B85E7184F8744 /* KZWFoundationSwift */;
+			targetProxy = 1007AD3A81E55ABFA744AD12DA6E906B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		12D96D74FC76EC45E57A125E1854F83A /* Debug */ = {
+		3CE682FD8BA7D7B81E89758EE54CE629 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B728ABE0BB9F314D796EC6AFB8F12520 /* Pods-KZWFoundationSwift_Example.debug.xcconfig */;
+			baseConfigurationReference = 6A69176FFE740A232FEF8554A2DD3EA3 /* Pods-KZWFoundationSwift_Example.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
@@ -365,7 +363,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-KZWFoundationSwift_Example/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-KZWFoundationSwift_Example/Pods-KZWFoundationSwift_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -378,41 +376,6 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		4F682EB7233CAF5E6693DDDCAABCFC0A /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6599555F384DEE931911DF43FEC3D1AC /* KZWFoundationSwift.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/KZWFoundationSwift/KZWFoundationSwift-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/KZWFoundationSwift/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/KZWFoundationSwift/KZWFoundationSwift.modulemap";
-				PRODUCT_MODULE_NAME = KZWFoundationSwift;
-				PRODUCT_NAME = KZWFoundationSwift;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -420,68 +383,9 @@
 			};
 			name = Release;
 		};
-		56A05ADD3BABDA1B56D1F979845809B1 /* Release */ = {
+		5036739233CBE674986E15291BF00C58 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGNING_ALLOWED = NO;
-				CODE_SIGNING_REQUIRED = NO;
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"POD_CONFIGURATION_RELEASE=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				MTL_FAST_MATH = YES;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRIP_INSTALLED_PRODUCT = NO;
-				SYMROOT = "${SRCROOT}/../build";
-			};
-			name = Release;
-		};
-		76814FC460C2FF19A46A289C823DB860 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6599555F384DEE931911DF43FEC3D1AC /* KZWFoundationSwift.xcconfig */;
+			baseConfigurationReference = B0D421AC0D30C8AA88E368AFDAEDBDF3 /* KZWFoundationSwift.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -493,7 +397,7 @@
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				GCC_PREFIX_HEADER = "Target Support Files/KZWFoundationSwift/KZWFoundationSwift-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/KZWFoundationSwift/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/KZWFoundationSwift/KZWFoundationSwift-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -503,7 +407,6 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
@@ -511,7 +414,40 @@
 			};
 			name = Debug;
 		};
-		BEFDB93BF207328A04F1220475D02C3B /* Debug */ = {
+		9EECF4673568C25F3E8F5C5F3F36201E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9362657AF3BEA5DEFD72D9B2B1F7600E /* Pods-KZWFoundationSwift_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-KZWFoundationSwift_Example/Pods-KZWFoundationSwift_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-KZWFoundationSwift_Example/Pods-KZWFoundationSwift_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		AB4D69770D8ACE3A05E80BB3502666F6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -543,8 +479,6 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGNING_ALLOWED = NO;
-				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -571,15 +505,16 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
 		};
-		CB9AE0AFBCF06D17F54D293178BCDE67 /* Release */ = {
+		ADAE6A02800781293F96E126C3CBFA99 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 334087CBB62AA3C76230BA313BAD607E /* Pods-KZWFoundationSwift_Example.release.xcconfig */;
+			baseConfigurationReference = B0D421AC0D30C8AA88E368AFDAEDBDF3 /* KZWFoundationSwift.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -589,21 +524,18 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-KZWFoundationSwift_Example/Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/KZWFoundationSwift/KZWFoundationSwift-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/KZWFoundationSwift/KZWFoundationSwift-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-KZWFoundationSwift_Example/Pods-KZWFoundationSwift_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				MODULEMAP_FILE = "Target Support Files/KZWFoundationSwift/KZWFoundationSwift.modulemap";
+				PRODUCT_MODULE_NAME = KZWFoundationSwift;
+				PRODUCT_NAME = KZWFoundationSwift;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -611,37 +543,97 @@
 			};
 			name = Release;
 		};
+		F232B5ECA11A71BFA199A229B323F454 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 4.2;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		25179CC7B545A4914D3234B922008E64 /* Build configuration list for PBXNativeTarget "Pods-KZWFoundationSwift_Example" */ = {
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				12D96D74FC76EC45E57A125E1854F83A /* Debug */,
-				CB9AE0AFBCF06D17F54D293178BCDE67 /* Release */,
+				AB4D69770D8ACE3A05E80BB3502666F6 /* Debug */,
+				F232B5ECA11A71BFA199A229B323F454 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+		52D55904355335CF5647A604C7B99E7E /* Build configuration list for PBXNativeTarget "KZWFoundationSwift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BEFDB93BF207328A04F1220475D02C3B /* Debug */,
-				56A05ADD3BABDA1B56D1F979845809B1 /* Release */,
+				5036739233CBE674986E15291BF00C58 /* Debug */,
+				ADAE6A02800781293F96E126C3CBFA99 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F8874F4D1494CCCFDE6FC9210E265B58 /* Build configuration list for PBXNativeTarget "KZWFoundationSwift" */ = {
+		763E2B0E35473152EC977FABB3EA712F /* Build configuration list for PBXNativeTarget "Pods-KZWFoundationSwift_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				76814FC460C2FF19A46A289C823DB860 /* Debug */,
-				4F682EB7233CAF5E6693DDDCAABCFC0A /* Release */,
+				9EECF4673568C25F3E8F5C5F3F36201E /* Debug */,
+				3CE682FD8BA7D7B81E89758EE54CE629 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+	rootObject = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 }
